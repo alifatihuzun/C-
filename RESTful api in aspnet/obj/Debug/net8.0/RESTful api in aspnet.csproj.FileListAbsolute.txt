@@ -1,0 +1,35 @@
+C:\Users\ALI.UZUN2\source\repos\RESTful api in aspnet\RESTful api in aspnet\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ALI.UZUN2\source\repos\RESTful api in aspnet\RESTful api in aspnet\bin\Debug\net8.0\appsettings.json
+C:\Users\ALI.UZUN2\source\repos\RESTful api in aspnet\RESTful api in aspnet\bin\Debug\net8.0\RESTful api in aspnet.exe
+C:\Users\ALI.UZUN2\source\repos\RESTful api in aspnet\RESTful api in aspnet\bin\Debug\net8.0\RESTful api in aspnet.deps.json
+C:\Users\ALI.UZUN2\source\repos\RESTful api in aspnet\RESTful api in aspnet\bin\Debug\net8.0\RESTful api in aspnet.runtimeconfig.json
+C:\Users\ALI.UZUN2\source\repos\RESTful api in aspnet\RESTful api in aspnet\bin\Debug\net8.0\RESTful api in aspnet.dll
+C:\Users\ALI.UZUN2\source\repos\RESTful api in aspnet\RESTful api in aspnet\bin\Debug\net8.0\RESTful api in aspnet.pdb
+C:\Users\ALI.UZUN2\source\repos\RESTful api in aspnet\RESTful api in aspnet\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ALI.UZUN2\source\repos\RESTful api in aspnet\RESTful api in aspnet\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ALI.UZUN2\source\repos\RESTful api in aspnet\RESTful api in aspnet\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ALI.UZUN2\source\repos\RESTful api in aspnet\RESTful api in aspnet\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ALI.UZUN2\source\repos\RESTful api in aspnet\RESTful api in aspnet\obj\Debug\net8.0\RESTful api in aspnet.csproj.AssemblyReference.cache
+C:\Users\ALI.UZUN2\source\repos\RESTful api in aspnet\RESTful api in aspnet\obj\Debug\net8.0\RESTful api in aspnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALI.UZUN2\source\repos\RESTful api in aspnet\RESTful api in aspnet\obj\Debug\net8.0\RESTful api in aspnet.AssemblyInfoInputs.cache
+C:\Users\ALI.UZUN2\source\repos\RESTful api in aspnet\RESTful api in aspnet\obj\Debug\net8.0\RESTful api in aspnet.AssemblyInfo.cs
+C:\Users\ALI.UZUN2\source\repos\RESTful api in aspnet\RESTful api in aspnet\obj\Debug\net8.0\RESTful api in aspnet.csproj.CoreCompileInputs.cache
+C:\Users\ALI.UZUN2\source\repos\RESTful api in aspnet\RESTful api in aspnet\obj\Debug\net8.0\RESTful api in aspnet.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ALI.UZUN2\source\repos\RESTful api in aspnet\RESTful api in aspnet\obj\Debug\net8.0\RESTful api in aspnet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ALI.UZUN2\source\repos\RESTful api in aspnet\RESTful api in aspnet\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ALI.UZUN2\source\repos\RESTful api in aspnet\RESTful api in aspnet\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ALI.UZUN2\source\repos\RESTful api in aspnet\RESTful api in aspnet\obj\Debug\net8.0\staticwebassets\msbuild.RESTful api in aspnet.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ALI.UZUN2\source\repos\RESTful api in aspnet\RESTful api in aspnet\obj\Debug\net8.0\staticwebassets\msbuild.build.RESTful api in aspnet.props
+C:\Users\ALI.UZUN2\source\repos\RESTful api in aspnet\RESTful api in aspnet\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RESTful api in aspnet.props
+C:\Users\ALI.UZUN2\source\repos\RESTful api in aspnet\RESTful api in aspnet\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RESTful api in aspnet.props
+C:\Users\ALI.UZUN2\source\repos\RESTful api in aspnet\RESTful api in aspnet\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ALI.UZUN2\source\repos\RESTful api in aspnet\RESTful api in aspnet\obj\Debug\net8.0\scopedcss\bundle\RESTful api in aspnet.styles.css
+C:\Users\ALI.UZUN2\source\repos\RESTful api in aspnet\RESTful api in aspnet\obj\Debug\net8.0\RESTful .A707142E.Up2Date
+C:\Users\ALI.UZUN2\source\repos\RESTful api in aspnet\RESTful api in aspnet\obj\Debug\net8.0\RESTful api in aspnet.dll
+C:\Users\ALI.UZUN2\source\repos\RESTful api in aspnet\RESTful api in aspnet\obj\Debug\net8.0\refint\RESTful api in aspnet.dll
+C:\Users\ALI.UZUN2\source\repos\RESTful api in aspnet\RESTful api in aspnet\obj\Debug\net8.0\RESTful api in aspnet.pdb
+C:\Users\ALI.UZUN2\source\repos\RESTful api in aspnet\RESTful api in aspnet\obj\Debug\net8.0\RESTful api in aspnet.genruntimeconfig.cache
+C:\Users\ALI.UZUN2\source\repos\RESTful api in aspnet\RESTful api in aspnet\obj\Debug\net8.0\ref\RESTful api in aspnet.dll
+C:\Users\ALI.UZUN2\source\repos\RESTful api in aspnet\RESTful api in aspnet\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ALI.UZUN2\source\repos\RESTful api in aspnet\RESTful api in aspnet\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ALI.UZUN2\source\repos\RESTful api in aspnet\RESTful api in aspnet\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll

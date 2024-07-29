@@ -1,0 +1,6 @@
+@RESTful_api_in_aspnet_HostAddress = http://localhost:5093
+
+GET {{RESTful_api_in_aspnet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
