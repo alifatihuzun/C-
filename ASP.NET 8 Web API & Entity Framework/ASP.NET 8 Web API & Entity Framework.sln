@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.NET 8 Web API & Entity Framework", "ASP.NET 8 Web API & Entity Framework\ASP.NET 8 Web API & Entity Framework.csproj", "{66D1CE30-3538-41FE-9231-151D21758E1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66D1CE30-3538-41FE-9231-151D21758E1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66D1CE30-3538-41FE-9231-151D21758E1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66D1CE30-3538-41FE-9231-151D21758E1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66D1CE30-3538-41FE-9231-151D21758E1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5841984B-A360-4EFB-B308-6C9D34C52ADF}
+	EndGlobalSection
+EndGlobal

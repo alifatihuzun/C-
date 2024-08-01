@@ -1,0 +1,6 @@
+@ASP.NET_8_Web_API___Entity_Framework_HostAddress = http://localhost:5164
+
+GET {{ASP.NET_8_Web_API___Entity_Framework_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
